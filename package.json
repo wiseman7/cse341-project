@@ -19,5 +19,8 @@
   "homepage": "https://github.com/wiseman7/cse341-project#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
   }
 }
