@@ -1,0 +1,23 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "Complete Node.js for Web Development II",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiseman7/cse341-project.git"
+  },
+  "author": "Britany Wiseman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiseman7/cse341-project/issues"
+  },
+  "homepage": "https://github.com/wiseman7/cse341-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
